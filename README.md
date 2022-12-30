@@ -7,3 +7,5 @@ here's my certification https://www.freecodecamp.org/certification/fcc57f9f309-6
 - Budget App
 - Polygon Area Calculator
 - Probability Calculator
+
+![Screenshot 2022-12-30 at 18-57-28 freeCodeCamp org](https://user-images.githubusercontent.com/65375259/210099379-696ce10e-1650-4813-a0bb-a179668529d9.png)
